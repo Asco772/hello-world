@@ -13,6 +13,7 @@
 		52652DA9263A943000D820CA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52652DA8263A943000D820CA /* Assets.xcassets */; };
 		52652DAC263A943000D820CA /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52652DAB263A943000D820CA /* Preview Assets.xcassets */; };
 		52652DAF263A943000D820CA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52652DAD263A943000D820CA /* LaunchScreen.storyboard */; };
+		52652DFF263AB16900D820CA /* sdf dsfds .swift in Sources */ = {isa = PBXBuildFile; fileRef = 52652DFE263AB16900D820CA /* sdf dsfds .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		52652DAB263A943000D820CA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		52652DAE263A943000D820CA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52652DB0263A943000D820CA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52652DFE263AB16900D820CA /* sdf dsfds .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "sdf dsfds .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				52652DAD263A943000D820CA /* LaunchScreen.storyboard */,
 				52652DB0263A943000D820CA /* Info.plist */,
 				52652DAA263A943000D820CA /* Preview Content */,
+				52652DFE263AB16900D820CA /* sdf dsfds .swift */,
 			);
 			path = gfgdfdgf;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				52652DFF263AB16900D820CA /* sdf dsfds .swift in Sources */,
 				52652DA3263A942E00D820CA /* AppDelegate.swift in Sources */,
 				52652DA5263A942E00D820CA /* SceneDelegate.swift in Sources */,
 				52652DA7263A942E00D820CA /* ContentView.swift in Sources */,
